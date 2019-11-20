@@ -11,3 +11,5 @@
 *.update
 *.xmgr*
 *.bxsf
+*.sh
+*.xsf*
