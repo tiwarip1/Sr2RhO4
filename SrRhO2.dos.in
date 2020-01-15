@@ -1,0 +1,6 @@
+ &dos
+    outdir='./'
+    prefix='SrRhO2'
+    fildos='SrRhO2.dos',
+    Emin=5.0, Emax=25.0, DeltaE=0.01
+ /

@@ -1,0 +1,5 @@
+ &bands
+    prefix  = 'SrRhO2',
+    outdir='./',
+    filband = 'bands.dat'
+ /

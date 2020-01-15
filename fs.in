@@ -1,0 +1,4 @@
+&fermi
+    outdir='./',
+    prefix='SrRhO2'
+/
